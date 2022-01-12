@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1008]前序遍历构造二叉搜索树.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1008]前序遍历构造二叉搜索树.java" />
+              <option name="questionId" value="1050" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[10]正则表达式匹配.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[10]正则表达式匹配.java" />
+              <option name="questionId" value="10" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1143]最长公共子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1143]最长公共子序列.java" />
+              <option name="questionId" value="1250" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[121]买卖股票的最佳时机.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[121]买卖股票的最佳时机.java" />
+              <option name="questionId" value="121" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[122]买卖股票的最佳时机 II.java" />
+              <option name="questionId" value="122" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[123]买卖股票的最佳时机 III.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[123]买卖股票的最佳时机 III.java" />
+              <option name="questionId" value="123" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[124]二叉树中的最大路径和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[124]二叉树中的最大路径和.java" />
+              <option name="questionId" value="124" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1312]让字符串成为回文串的最少插入次数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1312]让字符串成为回文串的最少插入次数.java" />
+              <option name="questionId" value="1437" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[131]分割回文串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[131]分割回文串.java" />
+              <option name="questionId" value="131" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[132]分割回文串 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[132]分割回文串 II.java" />
+              <option name="questionId" value="132" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[146]LRU 缓存机制.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[146]LRU 缓存机制.java" />
+              <option name="questionId" value="146" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1755]最接近目标值的子序列和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[1755]最接近目标值的子序列和.java" />
+              <option name="questionId" value="1881" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[188]买卖股票的最佳时机 IV.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[188]买卖股票的最佳时机 IV.java" />
+              <option name="questionId" value="188" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[19]删除链表的倒数第 N 个结点.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[19]删除链表的倒数第 N 个结点.java" />
+              <option name="questionId" value="19" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[200]岛屿数量.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[200]岛屿数量.java" />
+              <option name="questionId" value="200" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[240]搜索二维矩阵 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[240]搜索二维矩阵 II.java" />
+              <option name="questionId" value="240" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[29]两数相除.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[29]两数相除.java" />
+              <option name="questionId" value="29" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[2]两数相加.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[2]两数相加.java" />
+              <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[309]最佳买卖股票时机含冷冻期.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[309]最佳买卖股票时机含冷冻期.java" />
+              <option name="questionId" value="309" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[45]跳跃游戏 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[45]跳跃游戏 II.java" />
+              <option name="questionId" value="45" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[514]自由之路.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[514]自由之路.java" />
+              <option name="questionId" value="514" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[516]最长回文子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[516]最长回文子序列.java" />
+              <option name="questionId" value="516" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[517]超级洗衣机.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[517]超级洗衣机.java" />
+              <option name="questionId" value="517" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[53]最大子序和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[53]最大子序和.java" />
+              <option name="questionId" value="53" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[567]字符串的排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[567]字符串的排列.java" />
+              <option name="questionId" value="567" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[581]最短无序连续子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[581]最短无序连续子数组.java" />
+              <option name="questionId" value="581" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[629]K个逆序对数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[629]K个逆序对数组.java" />
+              <option name="questionId" value="629" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[714]买卖股票的最佳时机含手续费.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[714]买卖股票的最佳时机含手续费.java" />
+              <option name="questionId" value="714" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[803]打砖块.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[803]打砖块.java" />
+              <option name="questionId" value="821" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[87]Scramble String.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[87]Scramble String.java" />
+              <option name="questionId" value="87" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[97]交错字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[97]交错字符串.java" />
+              <option name="questionId" value="97" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[剑指 Offer II 006]排序数组中两个数字之和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[剑指 Offer II 006]排序数组中两个数字之和.java" />
+              <option name="questionId" value="1000237" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[剑指 Offer II 095]最长公共子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[剑指 Offer II 095]最长公共子序列.java" />
+              <option name="questionId" value="1000274" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[剑指 Offer II 119]最长连续序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[剑指 Offer II 119]最长连续序列.java" />
+              <option name="questionId" value="1000320" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[面试题 01.01]判定字符是否唯一.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[面试题 01.01]判定字符是否唯一.java" />
+              <option name="questionId" value="100158" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[面试题 08.14]布尔运算.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/cn/[面试题 08.14]布尔运算.java" />
+              <option name="questionId" value="1000031" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/en/[167]两数之和 II - 输入有序数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/en/[167]两数之和 II - 输入有序数组.java" />
+              <option name="questionId" value="167" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/en/[3]Longest Substring Without Repeating Characters.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/en/[3]Longest Substring Without Repeating Characters.java" />
+              <option name="questionId" value="3" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../coding train/leetcode/editor/en/[87]Scramble String.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../coding train/leetcode/editor/en/[87]Scramble String.java" />
+              <option name="questionId" value="87" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
